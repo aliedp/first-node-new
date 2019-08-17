@@ -1,0 +1,14 @@
+{
+  "name": "first-node",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.5.2"
+  },
+  "author": "",
+  "license": "MIT"
+}
